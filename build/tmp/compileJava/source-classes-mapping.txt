@@ -1,0 +1,2 @@
+com/test/tc/simpleapps/HelloWorld.java
+ com.test.tc.simpleapps.HelloWorld
